@@ -5,7 +5,7 @@ These variables were further summarised by taking the mean for each subject/acti
 
 The final data set is found in the 'tidy_data.txt' file, which can be read using `read.table("tidy_data.txt", header = T)`.
 
-A detailed discription can be found in `Code_Book.txt`. The naming convention is:
+A detailed discription can be found in `Code_Book.md`. The naming convention is:
 
   mean{time/freq}{measument}{mean/std}{X/Y/Z}
 
