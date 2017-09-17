@@ -1,4 +1,4 @@
-## Subject and Activity
+# Subject and Activity
 
 Variables used to ID unique subject/activity pairs that realte to the specific variables:
 - Subjecct - Subject ID (as integer)
